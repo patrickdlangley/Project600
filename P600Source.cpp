@@ -14,7 +14,7 @@ int main()
 
 	cout << "\nChange #1 Program P600";
 
-
+	cout << "\nChange #2 Program P600";
 
 	cout << endl;
 	system("pause");
